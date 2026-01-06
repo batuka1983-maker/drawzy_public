@@ -2,7 +2,7 @@
 
 Last updated: 06.01.2026
 
-This Privacy Policy applies to Drawzy ("App"). By using the App, you agree
+This Privacy Policy applies to Drawzy - Draw & Guess ("App"). By using the App, you agree
 to this policy.
 
 1) Information We Collect
@@ -49,7 +49,7 @@ game.batuka@gmail.com
 
 Son guncelleme: 06.01.2026
 
-Bu Gizlilik Politikasi, Drawzy ("Uygulama") icin gecerlidir. Uygulamayi
+Bu Gizlilik Politikasi, Drawzy - Çiz ve Tahmin Et ("Uygulama") icin gecerlidir. Uygulamayi
 kullanarak bu politikayi kabul etmis olursunuz.
 
 1) Toplanan Bilgiler
