@@ -1,4 +1,4 @@
-# Gizlilik Politikasi / Privacy Policy
+# Privacy Policy / Gizlilik Politikasi
 
 Last updated: 06.01.2026
 
