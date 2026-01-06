@@ -13,6 +13,7 @@ to this policy.
 - Game data: scores, levels, achievements.
 - Username: for leaderboard and multiplayer.
 - Multiplayer data: room code, player name, match results.
+- Purchases: in-app purchase events (no payment details are collected by the app).
 
 2) How We Use Data
 - Monitor app performance and crashes
@@ -35,14 +36,21 @@ These services have their own privacy policies.
 We do not sell personal data. Data may be shared only with the services
 above for app functionality and analytics.
 
-6) Children's Privacy
-The app is not specifically directed to children under 13. Parents can
-contact us if they believe data was collected.
+6) In-App Purchases
+Purchases are processed by Apple App Store / Google Play. Payment details are
+not collected or stored by the app.
 
-7) Data Retention & Security
+7) Children's Privacy
+The app is rated 4+ and is not specifically directed to children under 13.
+Parents can contact us if they believe data was collected.”
+
+8) Data Retention & Security
 We keep data only as long as necessary. We use reasonable security measures.
 
-8) Contact
+9) Changes
+This policy may be updated. Updates will be posted here.
+
+Contact
 game.batuka@gmail.com
 
 ---
@@ -62,6 +70,7 @@ kullanarak bu politikayi kabul etmis olursunuz.
 - Oyun verileri: skorlar, seviyeler, basarilar.
 - Kullanici adi: liderlik tablosu ve cok oyunculu oyun icin.
 - Multiplayer verileri: oda kodu, oyuncu adi, mac sonuclari.
+- Satin alma: uygulama ici satin alma etkinlikleri (odeme bilgileri uygulama tarafindan toplanmaz).
 
 2) Verilerin Kullanim Amaclari
 - Uygulama performansini ve hatalari izlemek
@@ -85,27 +94,25 @@ Bu servislerin kendi gizlilik politikalari vardir.
 Kisisel bilgiler satilmaz. Veriler yalnizca uygulamanin calismasi ve analiz
 amacli, yukaridaki hizmet saglayicilarla paylasilabilir.
 
-6) Cocuklarin Gizliligi
-Uygulama 13 yas alti kullanicilar icin ozel olarak hedeflenmemektedir.
+6) Uygulama Ici Satin Almalar
+Satin almalar Apple App Store / Google Play uzerinden yapilir. Odeme
+bilgileri uygulama tarafindan toplanmaz veya saklanmaz.
+
+7) Cocuklarin Gizliligi
+Uygulama 4+ yas icin uygundur, ancak 13 yas alti kullanicilar ozel olarak hedeflenmez.
 Ebeveynler gerekli gorurse bizimle iletisime gecebilir.
 
-7) Veri Saklama ve Guvenlik
+8) Veri Saklama ve Guvenlik
 Veriler, hizmetlerin saglanmasi icin gerekli sure boyunca saklanir.
 Guvenlik icin makul teknik onlemler alinir.
 
-8) Kullanici Haklari
+9) Kullanici Haklari
 Kisisel verilerle ilgili sorular icin bize ulasabilirsiniz:
 game.batuka@gmail.com
 
-9) Degisiklikler
+10) Degisiklikler
 Bu politika zaman zaman guncellenebilir. Guncellemeler bu sayfada
 yayinlanir.
 
 Iletisim
-game.batuka@gmail.com
-
-10) Changes
-This policy may be updated. Updates will be posted here.
-
-Contact
 game.batuka@gmail.com
