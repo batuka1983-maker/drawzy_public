@@ -1,4 +1,4 @@
-# Gizlilik Politikasi / Privacy Policy
+<img width="1501" height="743" alt="image" src="https://github.com/user-attachments/assets/319ebb5b-473f-4a9b-aa8a-276eacdd3f0a" /># Gizlilik Politikasi / Privacy Policy
 
 Son guncelleme: 23.12.2025
 
@@ -48,14 +48,14 @@ Guvenlik icin makul teknik onlemler alinir.
 
 8) Kullanici Haklari
 Kisisel verilerle ilgili sorular icin bize ulasabilirsiniz:
-batuka1983@gmail.com
+game.batuka@gmail.com
 
 9) Degisiklikler
 Bu politika zaman zaman guncellenebilir. Guncellemeler bu sayfada
 yayinlanir.
 
 Iletisim
-batuka1983@gmail.com
+game.batuka@gmail.com
 
 ---
 
@@ -102,10 +102,10 @@ contact us if they believe data was collected.
 We keep data only as long as necessary. We use reasonable security measures.
 
 8) Contact
-batuka1983@gmail.com
+game.batuka@gmail.com
 
 9) Changes
 This policy may be updated. Updates will be posted here.
 
 Contact
-batuka1983@gmail.com
+game.batuka@gmail.com
