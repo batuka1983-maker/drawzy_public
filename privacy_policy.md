@@ -1,4 +1,4 @@
-<img width="1501" height="743" alt="image" src="https://github.com/user-attachments/assets/319ebb5b-473f-4a9b-aa8a-276eacdd3f0a" /># Gizlilik Politikasi / Privacy Policy
+# Gizlilik Politikasi / Privacy Policy
 
 Son guncelleme: 23.12.2025
 
