@@ -1,6 +1,6 @@
 # Gizlilik Politikasi / Privacy Policy
 
-Son guncelleme: 23.12.2025
+Son guncelleme: 06.01.2026
 
 Bu Gizlilik Politikasi, Drawzy ("Uygulama") icin gecerlidir. Uygulamayi
 kullanarak bu politikayi kabul etmis olursunuz.
