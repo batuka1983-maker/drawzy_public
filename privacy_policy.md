@@ -29,7 +29,6 @@ uploaded unless the user explicitly approves sharing.
 4) Third-Party Services
 - Google Firebase (Analytics, Crashlytics, Authentication/Database)
 - Google AdMob (ads)
-
 These services have their own privacy policies.
 
 5) Data Sharing
@@ -87,7 +86,6 @@ Kullanici isterse paylasim secenekleri acilir.
 4) Ucuncu Taraf Hizmetler
 - Google Firebase (Analytics, Crashlytics, Authentication/Database)
 - Google AdMob (reklamlar)
-
 Bu servislerin kendi gizlilik politikalari vardir.
 
 5) Paylasim
