@@ -1,5 +1,52 @@
 # Gizlilik Politikasi / Privacy Policy
 
+Last updated: 06.01.2026
+
+This Privacy Policy applies to Drawzy ("App"). By using the App, you agree
+to this policy.
+
+1) Information We Collect
+- Device & usage data: in-app events, screens, performance (Firebase
+  Analytics).
+- Crash reports: technical crash/performance data (Firebase Crashlytics).
+- Identifiers: app instance ID, advertising ID (AdMob).
+- Game data: scores, levels, achievements.
+- Username: for leaderboard and multiplayer.
+- Multiplayer data: room code, player name, match results.
+
+2) How We Use Data
+- Monitor app performance and crashes
+- Analyze usage
+- Show ads
+- Run leaderboard and multiplayer features
+
+3) Share Feature (Video)
+The app may automatically generate a shareable gameplay video after a
+session. The video is created locally on the device and is not shared or
+uploaded unless the user explicitly approves sharing.
+
+4) Third-Party Services
+- Google Firebase (Analytics, Crashlytics, Authentication/Database)
+- Google AdMob (ads)
+
+These services have their own privacy policies.
+
+5) Data Sharing
+We do not sell personal data. Data may be shared only with the services
+above for app functionality and analytics.
+
+6) Children's Privacy
+The app is not specifically directed to children under 13. Parents can
+contact us if they believe data was collected.
+
+7) Data Retention & Security
+We keep data only as long as necessary. We use reasonable security measures.
+
+8) Contact
+game.batuka@gmail.com
+
+---
+
 Son guncelleme: 06.01.2026
 
 Bu Gizlilik Politikasi, Drawzy ("Uygulama") icin gecerlidir. Uygulamayi
@@ -57,54 +104,7 @@ yayinlanir.
 Iletisim
 game.batuka@gmail.com
 
----
-
-Last updated: 23.12.2025
-
-This Privacy Policy applies to Drawzy ("App"). By using the App, you agree
-to this policy.
-
-1) Information We Collect
-- Device & usage data: in-app events, screens, performance (Firebase
-  Analytics).
-- Crash reports: technical crash/performance data (Firebase Crashlytics).
-- Identifiers: app instance ID, advertising ID (AdMob).
-- Game data: scores, levels, achievements.
-- Username: for leaderboard and multiplayer.
-- Multiplayer data: room code, player name, match results.
-
-2) How We Use Data
-- Monitor app performance and crashes
-- Analyze usage
-- Show ads
-- Run leaderboard and multiplayer features
-
-3) Share Feature (Video)
-The app may automatically generate a shareable gameplay video after a
-session. The video is created locally on the device and is not shared or
-uploaded unless the user explicitly approves sharing.
-
-4) Third-Party Services
-- Google Firebase (Analytics, Crashlytics, Authentication/Database)
-- Google AdMob (ads)
-
-These services have their own privacy policies.
-
-5) Data Sharing
-We do not sell personal data. Data may be shared only with the services
-above for app functionality and analytics.
-
-6) Children's Privacy
-The app is not specifically directed to children under 13. Parents can
-contact us if they believe data was collected.
-
-7) Data Retention & Security
-We keep data only as long as necessary. We use reasonable security measures.
-
-8) Contact
-game.batuka@gmail.com
-
-9) Changes
+10) Changes
 This policy may be updated. Updates will be posted here.
 
 Contact
