@@ -12,6 +12,7 @@ to this policy.
 - Identifiers: app instance ID, advertising ID (AdMob).
 - Game data: scores, levels, achievements.
 - Username: for leaderboard and multiplayer.
+- Country (optional): to show a flag on the leaderboard.
 - Multiplayer data: room code, player name, match results.
 - Purchases: in-app purchase events (no payment details are collected by the app).
 
@@ -20,6 +21,7 @@ to this policy.
 - Analyze usage
 - Show ads
 - Run leaderboard and multiplayer features
+- Show a country flag on the leaderboard (optional)
 
 3) Share Feature (Video)
 The app may automatically generate a shareable gameplay video after a
@@ -34,19 +36,20 @@ uploaded unless the user explicitly approves sharing.
 5) Data Sharing
 We do not sell personal data. Data may be shared only with the services
 above for app functionality and analytics.
+Country sharing is optional and can be disabled in Settings.
 
-6) In-App Purchases
+7) In-App Purchases
 Purchases are processed by Apple App Store / Google Play. Payment details are
 not collected or stored by the app.
 
-7) Children's Privacy
+8) Children's Privacy
 The app is rated 4+ and is not specifically directed to children under 13.
 Parents can contact us if they believe data was collected.”
 
-8) Data Retention & Security
+9) Data Retention & Security
 We keep data only as long as necessary. We use reasonable security measures.
 
-9) Changes
+10) Changes
 This policy may be updated. Updates will be posted here.
 
 Contact
@@ -68,6 +71,7 @@ kullanarak bu politikayi kabul etmis olursunuz.
   tanimlayicilari (AdMob).
 - Oyun verileri: skorlar, seviyeler, basarilar.
 - Kullanici adi: liderlik tablosu ve cok oyunculu oyun icin.
+- Ülke bilgisi (istege bagli): liderlik tablosunda bayrak gostermek icin.
 - Multiplayer verileri: oda kodu, oyuncu adi, mac sonuclari.
 - Satin alma: uygulama ici satin alma etkinlikleri (odeme bilgileri uygulama tarafindan toplanmaz).
 
@@ -76,14 +80,16 @@ kullanarak bu politikayi kabul etmis olursunuz.
 - Kullanim analizi yapmak
 - Reklam gostermek
 - Liderlik tablolarini ve cok oyunculu ozellikleri yurutmek
+- Liderlik tablosunda ülke bayragi gostermek (istege bagli)
 
 3) Paylasim Ozelligi (Video)
 Uygulama, oyun sonunda otomatik olarak bir paylasim videosu
 olusturabilir. Bu video cihazda yerel olarak olusturulur ve
 kullanici onaylamadan paylasilmaz veya sunucuya yuklenmez.
 Kullanici isterse paylasim secenekleri acilir.
+Ülke bilgisi paylasimi istege baglidir ve Ayarlar'dan kapatilabilir.
 
-4) Ucuncu Taraf Hizmetler
+5) Ucuncu Taraf Hizmetler
 - Google Firebase (Analytics, Crashlytics, Authentication/Database)
 - Google AdMob (reklamlar)
 - Bu servislerin kendi gizlilik politikalari vardir.
